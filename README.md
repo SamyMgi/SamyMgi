@@ -1,6 +1,18 @@
-## Hi there 👋
+## Hello there, I'm Samy 👋 
+
+* 👨‍💻 **Data Scientist** from France
+
+* 🎓 Graduated from **Paris Dauphine University - PSL**
+
+* 💡 Exploring **AI**, **data**, and **whatever piques my curiosity**
+
+* 📚 **Always learning & experimenting**
 
 <!--
+## Technologies 💻
+
+## Project Showcase 🚀
+
 **SamyMgi/SamyMgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
